@@ -518,9 +518,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or issues:
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project Link**: [https://github.com/yourusername/ezwallet-java](https://github.com/yourusername/ezwallet-java)
+- **Email**: gajinduyashmika5@gmail.com
+- **GitHub**: [@Yashmika5](https://github.com/Yashmika5)
+- **Project Link**: [https://github.com/Yashmika5/ezwallet-java](https://github.com/Yashmika5/ezwallet-java)
 
 ---
 
